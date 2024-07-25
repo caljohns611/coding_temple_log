@@ -2,4 +2,4 @@
 
 Author: Coding Temple
 
-url: ww.codingtemple.com
+url: www.codingtemple.com
